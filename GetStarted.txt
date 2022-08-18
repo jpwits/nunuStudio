@@ -1,0 +1,5 @@
+To run nunuStudio install dependencies with 'npm install' and after run 'npm run napa'.
+
+To start the editor run 'npm run start'.
+
+Thanks a lot!
